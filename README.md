@@ -3,6 +3,12 @@ Black python code formatter with Docker
 
 This image lets you run [black](https://github.com/ambv/black) without installing python3.6 or messing up with virtualenv/pyenv.
 
+Build
+-----
+
+    docker built -t buxx/black .
+
+
 Install
 -------
 
